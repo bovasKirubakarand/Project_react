@@ -1,0 +1,18 @@
+.service {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 10px;
+    margin-top: 10px;
+}
+
+.service-item {
+    background-color: aquamarine;
+    padding: 10px;
+}
+
+.image {
+    text-align: center;
+    margin-left: 35%;
+    width: 120px;
+    height:40px;
+}
