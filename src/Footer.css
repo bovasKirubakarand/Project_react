@@ -1,0 +1,25 @@
+.foot-container {
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-end;
+    gap: 6rem;
+    position: absolute;
+    width: 100%;
+    margin: 0px;
+    height: 40%;
+    background-color: black;
+}
+
+.fc {
+    display: flex;
+    flex-direction: column;
+    padding: 10px;
+    margin-right: 3rem;
+}
+
+.o {
+    color: aliceblue;
+}
+.wo {
+    color: white;
+}
